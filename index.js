@@ -73,4 +73,4 @@ bot.on('guildMemberAdd', member => {
 
 
 
-bot.login('NDA3ODQ4NjcyODg2MjU5NzEy.DVH17Q.fvvAgmzJBSP1-n8XqPvnR2bgAHs');
+bot.login('');
